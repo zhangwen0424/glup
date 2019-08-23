@@ -1,0 +1,41 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwen0424/glup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangwen0424/glup-test/issues"
+  },
+  "homepage": "https://github.com/zhangwen0424/glup-test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-eslint": "^6.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-load-plugins": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2",
+    "require-dir": "^1.2.0",
+    "run-sequence": "^2.2.1",
+    "stream-combiner2": "^1.1.1",
+    "uglify": "^0.1.5"
+  }
+}

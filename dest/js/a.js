@@ -1,0 +1,1 @@
+function test(){return alert("aabb"),afe,!0}
